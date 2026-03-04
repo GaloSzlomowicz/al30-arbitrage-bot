@@ -133,7 +133,9 @@ ECO Valores (Bonos/Letras/ONs):
 ---
 
 ## Author
+**Galo Szlomowicz** · [github.com/GaloSzlomowicz](https://github.com/GaloSzlomowicz)
 
-**unabomber1618** · [github.com/unabomber1618](https://github.com/unabomber1618)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 > *Built for live execution on BYMA fixed income markets — AL30 settlement arbitrage (CI vs 24hs).*
